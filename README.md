@@ -9,3 +9,6 @@ Why do I like cheese so much?
 * [International Network of Food Data Systems (INFOODS)](http://www.fao.org/infoods/infoods/tables-and-databases/international-databases/en/)
 * [FAO database (needs manual cleaning)](http://www.fao.org/3/AC854T/AC854T00.htm#TOC)
 
+# Data Structure
+
+* *nutrient.csv* links nutrient IDs to actual nutrient names
